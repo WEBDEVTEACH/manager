@@ -5,6 +5,10 @@
 /************************************ FONTS ************************************/
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
 @import url(https://weloveiconfonts.com/api/?family=entypo|fontawesome|zocial);
+
+.button1 bouncy{
+	position:top;
+}
 /* entypo */
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
